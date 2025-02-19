@@ -136,7 +136,7 @@ We welcome contributions! To get started:
 ## 📄 License
 This project is licensed under the **MIT License**.
 
-📩 For inquiries, contact **[your-email@example.com](mailto:your-email@example.com)**
+📩 For inquiries, contact **[your-garvanand03@gmail.com](mailto:garvanand03@gmail.com)**
 
 🌟 If you like this project, give it a **star**! ⭐
 
