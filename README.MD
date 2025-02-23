@@ -16,6 +16,14 @@ DRNOS is an AI-powered traffic optimization platform designed to revolutionize u
 - Smart parking allocation and predictive demand management
 - Scalable API-driven microservices architecture, ensuring modular development
 
+### Project Screenshots
+
+![DRNOS Screenshot 1](https://github.com/Garvanand/DRNOS/blob/main/Screenshot%202025-02-19%20191351.png)
+![DRNOS Screenshot 2](https://github.com/Garvanand/DRNOS/blob/main/Screenshot%202025-02-19%20191501.png)
+![DRNOS Screenshot 3](https://github.com/Garvanand/DRNOS/blob/main/Screenshot%202025-02-19%20191533.png)
+![DRNOS Screenshot 4](https://github.com/Garvanand/DRNOS/blob/main/Screenshot%202025-02-19%20192028.png)
+![DRNOS Screenshot 5](https://github.com/Garvanand/DRNOS/blob/main/Screenshot%202025-02-19%20192141.png)
+
 ---
 
 ## Technology Stack
@@ -161,4 +169,3 @@ This project is licensed under the MIT License.
 For inquiries, contact [garvanand03@gmail.com](mailto:garvanand03@gmail.com)
 
 If you find this project useful, consider giving it a star.
-
